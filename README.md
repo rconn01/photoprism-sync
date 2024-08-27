@@ -13,5 +13,5 @@ You must have [sortPhotos](https://github.com/rconn01/sortphotos/tree/LivePhotos
 ### Usage
 
 ```
-./sync.sh -s <sorceDirectory> -d <destinationDirectory> -h <photoPrismHost> -t <photoPrismToken> -e <pathToSourtPhotos>
+./sync.sh -s <sorceDirectory> -p <photoDestinationDir> -v <videoDestinationDir> -h <photoPrismHost> -t <photoPrismToken> -e <pathToSourtPhotos>
 ```
